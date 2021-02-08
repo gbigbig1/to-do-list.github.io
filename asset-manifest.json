@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/to-do-list.github.io/static/css/main.baad310d.chunk.css",
+    "main.js": "/to-do-list.github.io/static/js/main.5ff30552.chunk.js",
+    "main.js.map": "/to-do-list.github.io/static/js/main.5ff30552.chunk.js.map",
+    "runtime-main.js": "/to-do-list.github.io/static/js/runtime-main.528a8077.js",
+    "runtime-main.js.map": "/to-do-list.github.io/static/js/runtime-main.528a8077.js.map",
+    "static/js/2.c32c6ded.chunk.js": "/to-do-list.github.io/static/js/2.c32c6ded.chunk.js",
+    "static/js/2.c32c6ded.chunk.js.map": "/to-do-list.github.io/static/js/2.c32c6ded.chunk.js.map",
+    "index.html": "/to-do-list.github.io/index.html",
+    "precache-manifest.c72195a0af1a0386533095720d1ffe5d.js": "/to-do-list.github.io/precache-manifest.c72195a0af1a0386533095720d1ffe5d.js",
+    "service-worker.js": "/to-do-list.github.io/service-worker.js",
+    "static/css/main.baad310d.chunk.css.map": "/to-do-list.github.io/static/css/main.baad310d.chunk.css.map",
+    "static/js/2.c32c6ded.chunk.js.LICENSE.txt": "/to-do-list.github.io/static/js/2.c32c6ded.chunk.js.LICENSE.txt",
+    "static/media/edit_icon.png": "/to-do-list.github.io/static/media/edit_icon.936f8885.png",
+    "static/media/nav_before.png": "/to-do-list.github.io/static/media/nav_before.67166eb1.png",
+    "static/media/nav_next.png": "/to-do-list.github.io/static/media/nav_next.1fa82738.png",
+    "static/media/save_icon.png": "/to-do-list.github.io/static/media/save_icon.bf13633a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.528a8077.js",
+    "static/js/2.c32c6ded.chunk.js",
+    "static/css/main.baad310d.chunk.css",
+    "static/js/main.5ff30552.chunk.js"
+  ]
+}
